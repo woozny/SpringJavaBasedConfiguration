@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Scope;
  * Created by tomek on 16.08.15.
  */
 //@ComponentScan
-@org.springframework.context.annotation.Configuration
+//@org.springframework.context.annotation.Configuration
 public class Configuration {
 
 	@Bean
